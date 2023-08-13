@@ -2,7 +2,9 @@
 
 <h3 align="center">A pragmatic Software Engineer from Nigeria</h3>
 - 🌱 I’m currently learning **Software Engineering**
+
 - 💬 Ask me about **Android, Python, C, Javascript, React, Kotlin, Bash**
+
 - 🥅 I am looking for **OpenSource projects** to contribute to
 
 <h3 align="left">Connect with me:</h3>
