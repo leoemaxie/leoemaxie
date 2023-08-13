@@ -1,15 +1,12 @@
 <h1 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I am leoemaxie</h1></h1>
 
 <h3 align="center">A pragmatic Software Engineer from Nigeria</h3>
-
 - 🌱 I’m currently learning **Software Engineering**
-
 - 💬 Ask me about **Android, Python, C, Javascript, React, Kotlin, Bash**
-
 - 🥅 I am looking for **OpenSource projects** to contribute to
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/emmanuel-lafenwa-96a6a6222"><img src="https://img.shields.io/badge/follow-%40emmanuel-lafenwa-96a6a6222-1DA1F2?logo=linkedin&style=for-the-badge" /></a>
+<a href="https://linkedin.com/in/emmanuel-lafenwa-96a6a6222"><img src="https://img.shields.io/badge/follow-%40emmanuel-lafenwa-96a6a6222-1DA1F2?logo=linkedin&style=for-the-badge" /></a>
 <a href="https://twitter.com/leoemaxie/" alt="twitter"><img src="https://img.shields.io/badge/follow-%40leomaxie-1DA1F2?logo=twitter&style=for-the-badge" /></a>
 
 #### GitHub Stats 
