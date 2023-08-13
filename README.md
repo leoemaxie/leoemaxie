@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/leoemaxie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="leoemaxie" height="30" width="30" /></a>
-<a href="https://twitter.com/leoemaxie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="leoemaxie" height="30" width="30" /></a>
+<a style="margin-left: 20px;" href="https://twitter.com/leoemaxie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="leoemaxie" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/emmanuel-lafenwa-96a6a6222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leoemaxie" height="30" width="30" /></a>
 <a href="https://www.leetcode.com/leoemaxie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leoemaxie" height="30" width="30" /></a>
 <a href="https://www.topcoder.com/members/leoemaxie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="leoemaxie" height="30" width="30" /></a>
