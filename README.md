@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I am Emmanuel Lafenwa</h1>
 <h3 align="center">A pragmatic Software Engineer from Nigeria</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leoemaxie" alt="leoemaxie" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/leoemaxie" target="blank"><img src="https://img.shields.io/twitter/follow/leoemaxie?logo=twitter&style=for-the-badge" alt="leoemaxie" /></a> </p>
-
 - 🌱 I’m currently learning **Software Engineering**
 
 - 💬 Ask me about **Android, Python, C, Javascript, React, Kotlin, Bash**
@@ -15,7 +11,7 @@
 <p align="left">
 <a href="https://codepen.io/leoemaxie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="leoemaxie" height="30" width="40" /></a>
 <a href="https://twitter.com/leoemaxie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="leoemaxie" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/leoemaxie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leoemaxie" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/emmanuel-lafenwa-96a6a6222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leoemaxie" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/leoemaxie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leoemaxie" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/leoemaxie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="leoemaxie" height="30" width="40" /></a>
 <a href="https://discord.gg/leoemaxie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="leoemaxie" height="30" width="40" /></a>
