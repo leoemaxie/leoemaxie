@@ -9,7 +9,6 @@
 - 🥅 I am looking for **OpenSource projects** to contribute
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/emmanuel-lafenwa-96a6a6222"><img src="https://img.shields.io/badge/follow-%40emmanuel-lafenwa-96a6a6222-1DA1F2?logo=linkedin&style=for-the-badge" /></a>
 <a href="https://twitter.com/leoemaxie/" alt="twitter"><img src="https://img.shields.io/badge/follow-%40leomaxie-1DA1F2?logo=twitter&style=for-the-badge" /></a>
 
 #### GitHub Stats 
