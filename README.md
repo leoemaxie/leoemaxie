@@ -1,6 +1,7 @@
 <h1 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I am leoemaxie</h1></h1>
 
 <h3 align="center">A pragmatic Software Engineer from Nigeria</h3>
+
 - 🌱 I’m currently learning **Software Engineering**
 
 - 💬 Ask me about **Android, Python, C, Javascript, React, Kotlin, Bash**
