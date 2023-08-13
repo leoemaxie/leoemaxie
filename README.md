@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Android, Python, C, Javascript, React, Kotlin, Bash**
 
-- 🥅 I am looking for **OpenSource projects** to contribute to
+- 🥅 I am looking for **OpenSource projects** to contribute
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/emmanuel-lafenwa-96a6a6222"><img src="https://img.shields.io/badge/follow-%40emmanuel-lafenwa-96a6a6222-1DA1F2?logo=linkedin&style=for-the-badge" /></a>
