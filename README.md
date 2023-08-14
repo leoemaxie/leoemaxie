@@ -15,7 +15,7 @@
 #### Languages 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leoemaxie&title_color=f44336&theme=dark&langs_count=3&hide=javascript,html,roff,assembly,objective-c,xsslt) 
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <a href="https://twitter.com/leoemaxie/" alt="twitter"><img src="https://img.shields.io/badge/follow-%40leomaxie-1DA1F2?logo=twitter&style=for-the-badge" /></a>
 
 ![](https://komarev.com/ghpvc/?username=leomaxie&color=2196f3)
