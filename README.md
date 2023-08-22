@@ -13,9 +13,9 @@
 ![Streak](https://streak-stats.demolab.com/?user=leoemaxie&theme=dark) 
   
 #### Languages 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leoemaxie&title_color=f44336&theme=dark&langs_count=5&hide=html,roff,css,objective-c,xsslt) 
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leoemaxie&title_color=f44336&theme=dark&langs_count=5&hide=html,roff,css&layout=compact) 
 
 <h4 align="left">Connect with me:</h4>
-<a href="https://twitter.com/leoemaxie/" alt="twitter"><img src="https://img.shields.io/badge/follow-%40leomaxie-1DA1F2?logo=twitter&style=for-the-badge" /></a>
+<a href="https://twitter.com/joel746425061" target="blank"><img src="https://img.shields.io/twitter/follow/leoemaxie?logo=twitter&style=for-the-badge" alt="leoemaxie" /></a> 
 
 ![](https://komarev.com/ghpvc/?username=leomaxie&color=2196f3)
