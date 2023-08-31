@@ -1,6 +1,6 @@
 <h1 align="center">Hello there 👋🏿, I am leoemaxie</h1>
 
-<h3 align="center">A pragmatic Software Engineer from Nigeria</h3>
+<h3 align="center">A pragmatic Software Engineer</h3>
 
 - 🌱 I’m currently learning **Software Engineering**
 
