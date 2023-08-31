@@ -15,7 +15,6 @@
 #### Languages 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leoemaxie&title_color=f44336&theme=dark&langs_count=6&hide=html,roff,css&layout=compact) 
 
-<h4 align="left">Connect with me:</h4>
-<a href="https://twitter.com/leoemaxie" target="blank"><img src="https://img.shields.io/twitter/follow/leoemaxie?logo=twitter&style=for-the-badge" alt="leoemaxie" /></a> 
-
+#### Connect with me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/emmanuel-lafenwa)
 ![](https://komarev.com/ghpvc/?username=leomaxie&color=2196f3)
