@@ -1,12 +1,43 @@
-<h1 align="center">Hello there 👋🏿, I am leoemaxie</h1>
+<h1 align="center">Hello there 👋🏿, I am Emmanuel</h1>
 
-<h3 align="center">A pragmatic Software Engineer</h3>
+🚀 Backend Engineer | Cloud Architect | Civic & Climate Tech Enthusiast  
 
-- 🌱 I’m currently learning **Software Engineering**
+I build practical tech for underserved communities — especially in **healthcare, agriculture, climate, and civic systems**.  
+Most of my work sits where **AI meets hardware, policy, and deployment in emerging markets**.
 
-- 💬 Ask me about **Android, Python, C, Javascript, React, Kotlin, Bash**
+---
 
-- 🥅 I am looking for **OpenSource projects** to contribute
+## 🧠 What I Work On
+- 🤖 AI/ML systems (applied AI, decision support, automation)
+- 🌱 Climate-smart agriculture & sustainability tech
+- 🏥 Digital health + emergency response systems
+- ⚙️ Embedded systems, IoT & hardware prototyping
+- 🌍 Civic tech, governance & responsible AI
+
+---
+
+## 🔬 Selected Projects
+- **SAOT** — AI + IoT tools helping smallholder farmers improve yield, reduce risk, and adapt to climate variability.  
+- **Automed** — Intelligent medication dispensing & health monitoring system.  
+- **AIDEN** — AI emergency guidance platform for low-resource communities.  
+- **Marine SOS** — Ocean safety & environmental monitoring initiative.  
+- **PrivAI** — Privacy-focused AI browser tooling.
+
+---
+
+## 🛠 Tech Stack
+**Languages:** Python, JavaScript/TypeScript, C, Rust  
+**Frameworks:** React, Next.js, React Native, Node.js  
+**AI/Cloud:** Azure AI, Google Cloud, Firebase, ML pipelines, IoT integrations  
+**Hardware:** Sensors, microcontrollers, CAD/design workflows  
+
+---
+
+## 🌍 Interests
+Responsible AI • Climate innovation • Digital public infrastructure  
+AI governance • Emerging tech policy • Startup ecosystems  
+
+---
 
 #### GitHub Stats 
 ![Stats](https://github-readme-stats.vercel.app/api?username=leoemaxie&show_icons=true&icon_color=D32F2F&theme=dark&title_color=D32F2F)   
