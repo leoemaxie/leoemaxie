@@ -1,9 +1,8 @@
 <h1 align="center">Hello there 👋🏿, I am Emmanuel</h1>
 
-🚀 Backend Engineer | Cloud Architect | Civic & Climate Tech Enthusiast  
+🚀 Backend Engineer | Cloud Architect | Social Innovator
 
-I build practical tech for underserved communities — especially in **healthcare, agriculture, climate, and civic systems**.  
-Most of my work sits where **AI meets hardware, policy, and deployment in emerging markets**.
+I build easy-to-use tech for underserved communities — especially in **healthcare, agriculture, climate, and civic systems**. 
 
 ---
 
@@ -11,25 +10,26 @@ Most of my work sits where **AI meets hardware, policy, and deployment in emergi
 - 🤖 AI/ML systems (applied AI, decision support, automation)
 - 🌱 Climate-smart agriculture & sustainability tech
 - 🏥 Digital health + emergency response systems
-- ⚙️ Embedded systems, IoT & hardware prototyping
-- 🌍 Civic tech, governance & responsible AI
+- ⚙️ Embedded systems, IoT & hardware
+- 🌍 Distributed Systems
 
 ---
 
 ## 🔬 Selected Projects
-- **SAOT** — AI + IoT tools helping smallholder farmers improve yield, reduce risk, and adapt to climate variability.  
-- **Automed** — Intelligent medication dispensing & health monitoring system.  
+- (**SAOT**)[https://saot.tech] — AI + IoT tools helping smallholder farmers improve yield, reduce risk, and adapt to climate variability.  
+- (**Automed**)[https://automed.tech] — Intelligent medication management system.  
 - **AIDEN** — AI emergency guidance platform for low-resource communities.  
-- **Marine SOS** — Ocean safety & environmental monitoring initiative.  
-- **PrivAI** — Privacy-focused AI browser tooling.
+- (**Marine SOS**)[https://marine-sos.vercel.app) — Ocean safety & environmental monitoring initiative 
+- (**FraudRadar**)[fraudradar.triumphsystems.tech] — Privacy-preserving fraud intelligence network
+- (**Oryon**)[oryon-ai.vercel.app] - Music Data, Intelligence & Distribution Platform for the creative economy
 
 ---
 
 ## 🛠 Tech Stack
 **Languages:** Python, JavaScript/TypeScript, C, Rust  
-**Frameworks:** React, Next.js, React Native, Node.js  
-**AI/Cloud:** Azure AI, Google Cloud, Firebase, ML pipelines, IoT integrations  
-**Hardware:** Sensors, microcontrollers, CAD/design workflows  
+**Frameworks:** React, Next.js, React Native, Node.js, Flask  
+**AI/Cloud:** Azure, Google Cloud, Firebase, AWS, IoT integrations  
+**Hardware:** Sensors, microcontrollers, CAD 
 
 ---
 
