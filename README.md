@@ -16,12 +16,12 @@ I build easy-to-use tech for underserved communities — especially in **healthc
 ---
 
 ## 🔬 Selected Projects
-- **(SAOT)[https://saot.tech]** — AI + IoT tools helping smallholder farmers improve yield, reduce risk, and adapt to climate variability.  
-- **(Automed)[https://automed.tech]** — Intelligent medication management system.  
+- **[SAOT](https://saot.tech)** — AI + IoT tools helping smallholder farmers improve yield, reduce risk, and adapt to climate variability.  
+- **[Automed](https://automed.tech)** — Intelligent medication management system.  
 - **AIDEN** — AI emergency guidance platform for low-resource communities.  
-- **(Marine SOS)[https://marine-sos.vercel.app)** — Ocean safety & environmental monitoring initiative 
-- **(FraudRadar)[fraudradar.triumphsystems.tech]** — Privacy-preserving fraud intelligence network
-- **(Oryon)[https://oryon-ai.vercel.app]** - Music Data, Intelligence & Distribution Platform for the creative economy
+- **[Marine SOS](https://marine-sos.vercel.app)** — Ocean safety & environmental monitoring initiative 
+- **[FraudRadar](https://fraudradar.triumphsystems.tech)** — Privacy-preserving fraud intelligence network
+- **[Oryon](https://oryon-ai.vercel.app)** - Music Data, Intelligence & Distribution Platform for the creative economy
 
 ---
 
